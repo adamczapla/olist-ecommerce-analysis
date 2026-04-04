@@ -327,6 +327,8 @@ Merkmale:
 Interpretation:
 
 Diese Kategorien sind häufig Teil großer Bestellungen, aber nicht deren Haupttreiber.
+ 
+Beispiel: `moveis_escritorio`
 
 ---
 
@@ -341,6 +343,8 @@ Merkmale:
 Interpretation:
 
 Diese Kategorien zeigen ein konsistentes, aber nicht extremes Verhalten.
+
+Beispiel: `casa_conforto`
 
 ---
 

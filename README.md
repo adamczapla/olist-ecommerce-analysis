@@ -121,12 +121,12 @@ This allows distinguishing between:
 
 ## Example: Category Comparison
 
-| Category                    | Avg Order Value |  Median |   High-Value Ratio |
-|:----------------------------|----------------:|--------:|-------------------:|
-| pcs                         |         1286.95 | 1250.81 |               0.99 |
-| portateis_casa_forno_e_cafe |          669.25 |  673.47 |               0.67 |
-| moveis_escritorio           |          270.90 |  206.84 |               0.63 |
-| casa_conforto               |          185.13 |  140.06 |               0.45 |
+| Category            | Avg Order Value |  Median | High-Value Ratio |
+|:--------------------|----------------:|--------:|-----------------:|
+| pcs                 |         1286.95 | 1250.81 |             0.99 |
+| eletrodomesticos_2  |          529.75 |  283.27 |             0.79 |
+| moveis_escritorio   |          270.90 |  206.84 |             0.63 |
+| casa_conforto       |          185.13 |  140.06 |             0.45 |
 
 ---
 
